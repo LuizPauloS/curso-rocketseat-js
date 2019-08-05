@@ -1,0 +1,10 @@
+body {
+    background-color: #cecece;
+    color: blueviolet;
+}
+
+.card .card-body {
+    background-color: dimgrey;
+    color: white;
+    font-weight: bold;
+}
